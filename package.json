@@ -1,0 +1,24 @@
+{
+  "name": "vqauim--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-react-inputs": "5.2.0",
+    "@progress/kendo-drawing": "1.16.3",
+    "@progress/kendo-licensing": "1.2.2",
+    "react-dom": "18.0.0",
+    "@progress/kendo-react-animation": "5.2.0",
+    "react": "18.0.0",
+    "@progress/kendo-react-intl": "5.2.0",
+    "prop-types": "15.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
